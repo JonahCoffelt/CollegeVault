@@ -1,4 +1,4 @@
-# Jonah Coffelt' Vault
+# Jonah Coffelt's Vault
 Welcome to my primary Obsidian Vault! Here, I store my college notes as well as some notes for my projects.
 
 # Organization
