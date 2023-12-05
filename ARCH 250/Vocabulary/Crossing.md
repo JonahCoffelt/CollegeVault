@@ -1,0 +1,1 @@
+The crossing is the midway point between the nave and the transepts. A tower above this point would be known as the crossing tower. 

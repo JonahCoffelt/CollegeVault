@@ -1,0 +1,1 @@
+This is where the actually choir would be in early churches. This was often in the front portion of the apse. 

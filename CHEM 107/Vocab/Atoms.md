@@ -1,0 +1,1 @@
+Particles that are as small as they can be while still retaining their chemical behaviors and identity. 

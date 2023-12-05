@@ -1,0 +1,8 @@
+- Top Piazza contributors may get a curve.
+- Finish quiz by Wednesday 5 PM
+- Lab due next Monday 5 PM
+- Read ZyBook Chapter 1 by Friday
+- Set up
+	- Piazza
+	- Spyder
+- Trig in radians

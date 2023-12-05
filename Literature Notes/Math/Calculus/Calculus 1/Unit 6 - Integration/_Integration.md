@@ -1,0 +1,26 @@
+#unit #math #integral
+# Unit 6 of Calculus 1
+## [[Riemann Sums]]
+![[Riemann Sums]]
+## [[Integrals from Riemann Sums]]
+![[Integrals from Riemann Sums]]
+## [[Definite Integrals]]
+![[Definite Integrals]]
+## [[Fundamental Theorem of Calculus]]
+![[Fundamental Theorem of Calculus]]
+## [[Reverse Power Rule]]
+![[Reverse Power Rule]]
+
+## [[Integrals of Common Functions]]
+![[Integrals of Common Functions]]
+## [[Evaluating Definite Integrals]] 
+![[Evaluating Definite Integrals]]
+## [[Definite Integral of Rational Functions]]
+![[Definite Integral of Rational Functions]]
+## [[Definite Integral of Radical Functions]]
+![[Definite Integral of Radical Functions]]
+
+## [[U-Substitution]]  
+![[U-Substitution]]
+## [[Integration Using Long Division]]
+![[Integration Using Long Division]]

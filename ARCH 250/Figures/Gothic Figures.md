@@ -1,0 +1,1 @@
+In the Gothic era, the emphasis was often on the patrons rather than the architects of buildings. This is often because God was considered the "one true architect". We can think about the mimicking of buildings such as the temple of Solomon. Thus architect humans are called "builders" or "master masons".

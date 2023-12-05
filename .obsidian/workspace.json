@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "6269e052906793a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "96c1c5baac3f0cfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac0bf55221d7f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHEM 107/Literature/Unit 8 - Equilibrium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab0913e9a8c52e2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "18954883ef30418a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "523404e0eba21669",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52cbfac97572d90c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3626e93a2aeb3c56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "334a80e113f5d7f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd0e6cb3effaf05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdec07962c8a4e22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CHEM 107/Literature/Unit 8 - Equilibrium.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d87d0675ebc4cdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CHEM 107/Literature/Unit 8 - Equilibrium.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "797a29ff790b8bb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36b875c3ecb7844f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CHEM 107/Literature/Unit 8 - Equilibrium.md"
+              }
+            }
+          },
+          {
+            "id": "0f8df8c9c1a94e99",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "3e02142805e7ebf9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "cac0bf55221d7f14",
+  "lastOpenFiles": [
+    "CHEM 107/Literature/Unit 7 - Kinetics.md",
+    "CHEM 107/Literature/Unit 8 - Equilibrium.md",
+    "Game Dev/Boards/Game Engine Board.md",
+    "CHEM 107/Literature/Unit 1 - Matter.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 2 - Derivatives/Derivatives with e.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 2 - Derivatives/Differentiability.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 2 - Derivatives/Derivative Rules.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 2 - Derivatives/_Derivatives.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 3 - Advanced Derivatives/_Advanced Derivative Topics.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 3 - Advanced Derivatives/Chain Rule.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 3 - Advanced Derivatives/Derivatives of Inverse Functions.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 3 - Advanced Derivatives/Derivatives of Inverse Trigonometric Functions.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 3 - Advanced Derivatives/Multiple Order Derivatives.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 3 - Advanced Derivatives/Logarithmic Differentiation.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 3 - Advanced Derivatives/Implicit Differentiation.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 1 - Limits and Continuity/Squeeze Theorem.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 1 - Limits and Continuity/Removing Discontinuities.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 1 - Limits and Continuity/Properties of Limits.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 1 - Limits and Continuity/Limits by Direct Substitution.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 1 - Limits and Continuity/Limit of Composite Functions.md",
+    "Literature Notes/Math/Calculus/Calculus 1/Unit 1 - Limits and Continuity/Continuity.md",
+    "Literature Notes/Math/Calculus/Calculus 2/Unit 2 - Advanced Integration Techniques/Trigonometric Substitution.md",
+    "Literature Notes/Math/Calculus/Calculus 2/Unit 2 - Advanced Integration Techniques/Integration Using Linear Partial Fractions.md",
+    "Literature Notes/Math/Calculus/Calculus 2/Unit 2 - Advanced Integration Techniques/Integration by Parts.md",
+    "Literature Notes/Math/Calculus/Calculus 2/Unit 2 - Advanced Integration Techniques/Improper Integrals.md",
+    "Literature Notes/Math/Calculus/Calculus 2/Unit 4 - Advanced Applications of Integrals/Arc Length.md",
+    "Game Dev/Boards",
+    "Game Dev",
+    "ENGR 102/Practice",
+    "Images/Figure_1 4.png",
+    "Images/Figure_1 3.png",
+    "Images/Figure_1 2.png",
+    "Images/Figure_1 1.png",
+    "Images/Figure_1.png",
+    "Images/Pasted image 20231128135517.png",
+    "Images/Pasted image 20231128125523.png",
+    "Images/Pasted image 20231116131117.png",
+    "Images/Pasted image 20231114134911.png",
+    "Images/Pasted image 20231114134309.png",
+    "ARCH 250/Figures",
+    "Literature Notes/Math/Calculus/Calculus 3/Unit 1 - Multivariable Functions",
+    "Literature Notes/Math/Calculus/Calculus 2/Unit 5 - Parametric, Polar, and Vectors",
+    "Literature Notes/Math/Calculus/Calculus 2/Unit 6 - Series",
+    "Literature Notes/Math/Calculus/Calculus 2/Unit 3 - Differential Equation Applications",
+    "Literature Notes/Math/Calculus/Calculus 2/Unit 4 - Advanced Applications of Integrals",
+    "Literature Notes/Math/Calculus/Calculus 2/Unit 2 - Advanced Integration Techniques"
+  ]
+}

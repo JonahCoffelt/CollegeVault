@@ -1,0 +1,2 @@
+#math
+The integral can used to total the accumulation of change. For example, if we had people entering a park at a rate $e(t)$, then the total number of people in the park after 5 hours would be $\int_0^5e(t)dt$. Furthermore, we can combine multiple rates to get a single solution. Let's say that people are leaving the park at a rate of $l(t)$, then the total people in the park after 5 hours would not be $\int_0^5(e(t)-l(t))dt$.

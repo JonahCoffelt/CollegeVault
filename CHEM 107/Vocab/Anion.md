@@ -1,0 +1,1 @@
+An ion with a negative charge. 

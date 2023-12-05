@@ -1,0 +1,1 @@
+Science and technology have become so persuasive in everyday life that they offer reign supreme to human uniqueness and creativity. There is a sense that Science in *the* lens through which to view the world, and while it provides a focused view, it often lack peripheral.

@@ -1,0 +1,1 @@
+Polyatomic Ions are groups of atoms that carry a charge.

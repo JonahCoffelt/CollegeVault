@@ -1,0 +1,1 @@
+Insoluble ionic compound solid formed during a reaction. 

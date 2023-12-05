@@ -1,0 +1,1 @@
+These were the arms of the cross shape of the church. 

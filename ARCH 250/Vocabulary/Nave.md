@@ -1,0 +1,1 @@
+The main walkway of the church. The walkway up the nave is meant to embody a pilgrimage for both the Clergy and the Mass attendees.

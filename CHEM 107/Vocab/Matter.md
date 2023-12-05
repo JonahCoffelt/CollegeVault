@@ -1,0 +1,1 @@
+Anything that has mass and can be observed.
